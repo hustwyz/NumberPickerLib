@@ -10,12 +10,12 @@ int attr selectionDividersDistance 0x7f010005
 int attr solidColor 0x7f010002
 int attr timePickerStyle 0x7f010000
 int attr virtualButtonPressedDrawable 0x7f01000b
+int color number_txt_color 0x7f040001
 int color title_icon_click_color 0x7f040002
 int color transparent 0x7f040000
-int color txt_color 0x7f040001
 int dimen margin 0x7f050001
 int dimen margin_half 0x7f050002
-int dimen txt_size 0x7f050000
+int dimen number_txt_size 0x7f050000
 int drawable item_background_holo_dark 0x7f020000
 int drawable item_background_holo_light 0x7f020001
 int drawable list_focused_holo 0x7f020002
@@ -55,7 +55,7 @@ int style NPWidget_Holo_Light_NumberPicker 0x7f080005
 int style NPWidget_Holo_NumberPicker 0x7f080004
 int style NPWidget_NumberPicker 0x7f080003
 int style Theme_Dialog_Alert 0x7f080000
-int style txt_style 0x7f080001
+int style number_txt_style 0x7f080001
 int[] styleable NumberPicker { 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006, 0x7f010007, 0x7f010008, 0x7f010009, 0x7f01000a, 0x7f01000b }
 int styleable NumberPicker_internalLayout 8
 int styleable NumberPicker_internalMaxHeight 5

@@ -7,9 +7,9 @@
         <item name="android:windowContentOverlay">@null</item>
     </style>
     
-    <style name="txt_style">
-        <item name="android:textColor">@color/txt_color</item>
-        <item name="android:textSize">@dimen/txt_size</item>
+    <style name="number_txt_style">
+        <item name="android:textColor">@color/number_txt_color</item>
+        <item name="android:textSize">@dimen/number_txt_size</item>
     </style>
-
+    
 </resources>

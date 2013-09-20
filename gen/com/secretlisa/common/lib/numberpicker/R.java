@@ -113,14 +113,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static int virtualButtonPressedDrawable=0x7f01000b;
     }
     public static final class color {
+        public static int number_txt_color=0x7f040001;
         public static int title_icon_click_color=0x7f040002;
         public static int transparent=0x7f040000;
-        public static int txt_color=0x7f040001;
     }
     public static final class dimen {
         public static int margin=0x7f050001;
         public static int margin_half=0x7f050002;
-        public static int txt_size=0x7f050000;
+        public static int number_txt_size=0x7f050000;
     }
     public static final class drawable {
         public static int item_background_holo_dark=0x7f020000;
@@ -197,7 +197,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static int NPWidget_Holo_NumberPicker=0x7f080004;
         public static int NPWidget_NumberPicker=0x7f080003;
         public static int Theme_Dialog_Alert=0x7f080000;
-        public static int txt_style=0x7f080001;
+        public static int number_txt_style=0x7f080001;
     }
     public static final class styleable {
         /** Attributes that can be used with a NumberPicker.

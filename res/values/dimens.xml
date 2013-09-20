@@ -1,6 +1,6 @@
 <resources>
 
-    <dimen name="txt_size">24sp</dimen>
+    <dimen name="number_txt_size">24sp</dimen>
     <dimen name="margin">18dip</dimen>
     <dimen name="margin_half">9dip</dimen>
 

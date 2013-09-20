@@ -20,7 +20,7 @@
 <merge xmlns:android="http://schemas.android.com/apk/res/android">
 
     <view class="com.secretlisa.common.lib.numberpicker.NumberPicker$CustomEditText"
-        style="@style/txt_style"
+        style="@style/number_txt_style"
         android:id="@+id/np__numberpicker_input"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"

@@ -3,6 +3,6 @@
 
     <color name="transparent">#00000000</color>
     
-    <color name="txt_color">#ffffffff</color>
+    <color name="number_txt_color">#a51615</color>
     <color name="title_icon_click_color">#4B000000</color>
 </resources>
